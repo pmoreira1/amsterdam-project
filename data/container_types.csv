@@ -1,0 +1,21 @@
+container_type_id,name,volume,weight
+9,HMS rest 5M3,5.0,500
+27,Nieuw-West (SV)  Rest 5m3 TR Opl inst,5.0,700
+41,Nieuw west Papier,4.0,650
+48,Nieuw west rest 5m3,5.0,700
+59,Bovengrondse Glas,3.0,350
+109,nieuw-West Glas 1 4m3 KH TR OPL inst,4.0,600
+138,Nieuw-West papier 5m3,5.0,650
+139,Nieuw-west rest 5m3 Rubens,5.0,650
+140,Algemene order,0.0,0
+149,Oost stadsdeel ijburg Rubens KH Glas 1 5m3,5.0,600
+160,Centrum Stadsdeel Glas 1 KH 3m3,3.0,500
+206,Oost Stadsdeel Ijburg papier KH 5m3,5.0,600
+210,centrum Stadsdeel Glas 3m3,3.0,500
+214,Nieuwe west  3m3 belfast glas 1,3.0,500
+215,Nieuw west  3m3 belfast papier ,3.0,500
+216,Nieuwe west  3m3 belfast rest,3.0,550
+244,Nieuw West rest  belfast 5m3 ,5.0,700
+298,Kikker Rest ,3.0,350
+320,Centrum amsterdam EVO Glas 4m3,4.0,600
+321,Centrum Amsterdam EVO papier KH 4m3,4.0,600

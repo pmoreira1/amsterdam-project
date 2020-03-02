@@ -1,0 +1,21 @@
+container_id,active,address,buurt,owner_id,container_type_id,well_type,waste_name,waste_type,well_id,well.geometrie.coordinates.0,well.geometrie.coordinates.1
+3888,1,"Reimerswaalstraat 22, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,3887,4.7938636,52.363041700000004
+3890,1,"Reimerswaalstraat 22, Amsterdam",F Nieuw-West,16,138,Point,Papier,6,3889,4.793853599999999,52.363060299999994
+4046,1,"Blankenbergestraat 14, Amsterdam",F Nieuw-West,16,1994,Point,Papier,6,4045,4.8010989,52.3464729
+4048,1,"Antwerpenbaan 8, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,4047,4.8052532999999995,52.345333600000004
+4086,1,"Oudenaardeplantsoen 13, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,4085,4.8018306,52.3477861
+4864,1,"Senecastraat 32, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,27488,4.813301,52.37363920000001
+4948,1,"Pieter Calandlaan 169, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,4947,4.8151538,52.3550464
+4950,1,"Pieter Calandlaan 169, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,4949,4.8151246,52.3550404
+4986,0,"Rijswijkstraat 175, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,74272,4.8387492,52.3498854
+4990,0,"Rijswijkstraat 175, Amsterdam",F Nieuw-West,16,27,Point,Rest,1,26677,4.838749900000001,52.349903999999995
+4992,0,"Rijswijkstraat 175, Amsterdam",F Nieuw-West,16,1994,Point,Papier,6,26676,4.838749900000001,52.3499213
+6272,1,"Fogostraat 1, 1060 Amsterdam, Nederland",F Nieuw-West,16,140,Point,Rest,1,6271,4.771005000000001,52.357027
+7324,1,"Veeteeltstraat 19, Amsterdam",M Oost,111,3322,Point,Papier,6,7323,4.947583582245444,52.34142292298763
+7326,1,"Sikkelstraat 21, Amsterdam",M Oost,111,344,Point,Papier,6,7325,4.948291406035424,52.340346961132475
+7328,1,"Zuivelplein 9, Amsterdam",M Oost,111,344,Point,Papier,6,7327,4.946211352944375,52.339808628977245
+7330,1,"Egstraat 37, Amsterdam",M Oost,111,3322,Point,Papier,6,7329,4.945065993808838,52.34312079734994
+7342,1,"Veeteeltstraat 19, Amsterdam",M Oost,111,3323,Point,Glas,2,7341,4.947609398507212,52.34143562297754
+7344,1,"Sikkelstraat 63, Amsterdam",M Oost,111,333,Point,Glas,2,7343,4.94826726615429,52.34024945548993
+7346,1,"Zuivelplein 9, Amsterdam",M Oost,111,333,Point,Glas,2,7345,4.946290478110313,52.33983157172944
+7348,1,"Egstraat 33, Amsterdam",M Oost,111,3323,Point,Glas,2,7347,4.945095498108003,52.3431197731964
