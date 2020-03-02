@@ -1,21 +1,16 @@
-well_id,stadsdeel,buurt_code,geometrie.type
-2829,F,F86a,Point
-3235,F,F86b,Point
-3493,F,F85a,Point
-3559,F,F85a,Point
-3565,F,F85a,Point
-3567,F,F85a,Point
-3887,F,F82a,Point
-3889,F,F82a,Point
-3949,F,F88e,Point
-4021,F,F88h,Point
-4045,F,F88e,Point
-4047,F,F88e,Point
-4051,F,F85a,Point
-4085,F,F88e,Point
-4739,F,F89a,Point
-4745,F,F89a,Point
-4779,F,F89a,Point
-4815,F,F89a,Point
-4817,F,F89a,Point
-4823,F,F88f,Point
+well_id,stadsdeel,buurt_code,geometrie.type,address.neighbourhood,address.summary
+2829,F,F86a,Point,86a - Overtoomse Veld Noord,"Jan Evertsenstraat 717, Amsterdam"
+3235,F,F86b,Point,86b - Overtoomse Veld Zuid,"Derkinderenstraat 11, Amsterdam"
+3493,F,F85a,Point,85a - Oostoever Sloterplas,"Uffizilaan 11, Amsterdam"
+3559,F,F85a,Point,85a - Oostoever Sloterplas,"Guggenheimlaan 59, Amsterdam"
+3565,F,F85a,Point,85a - Oostoever Sloterplas,"Mezquitalaan 43, Amsterdam"
+3567,F,F85a,Point,85a - Oostoever Sloterplas,"Mezquitalaan 43, Amsterdam"
+3887,F,F82a,Point,82a - Osdorp Midden Noord,"Reimerswaalstraat 22, Amsterdam"
+3889,F,F82a,Point,82a - Osdorp Midden Noord,"Reimerswaalstraat 22, Amsterdam"
+3949,F,F88e,Point,88e - Nieuw Sloten Noordwest,"Oudenaardeplantsoen 83, Amsterdam"
+4021,F,F88h,Point,88h - Nieuw Sloten Zuidwest,"Schaarbeekstraat 34, Amsterdam / Liederkerkeplantsoen"
+4045,F,F88e,Point,88e - Nieuw Sloten Noordwest,"Blankenbergestraat 14, Amsterdam"
+4047,F,F88e,Point,88e - Nieuw Sloten Noordwest,"Antwerpenbaan 8, Amsterdam"
+4051,F,F85a,Point,85a - Oostoever Sloterplas,"Tretjakovlaan 122, Amsterdam"
+4085,F,F88e,Point,88e - Nieuw Sloten Noordwest,"Oudenaardeplantsoen 13, Amsterdam"
+4739,F,F89a,Point,89a - Louis Chrispijnbuurt,"Tourniairestraat 106, Amsterdam"
