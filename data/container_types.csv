@@ -1,21 +1,217 @@
 container_type_id,name,volume,weight
-9,HMS rest 5M3,5.0,500
-27,Nieuw-West (SV)  Rest 5m3 TR Opl inst,5.0,700
-41,Nieuw west Papier,4.0,650
-48,Nieuw west rest 5m3,5.0,700
-59,Bovengrondse Glas,3.0,350
-109,nieuw-West Glas 1 4m3 KH TR OPL inst,4.0,600
-138,Nieuw-West papier 5m3,5.0,650
-139,Nieuw-west rest 5m3 Rubens,5.0,650
-140,Algemene order,0.0,0
-149,Oost stadsdeel ijburg Rubens KH Glas 1 5m3,5.0,600
-160,Centrum Stadsdeel Glas 1 KH 3m3,3.0,500
-206,Oost Stadsdeel Ijburg papier KH 5m3,5.0,600
-210,centrum Stadsdeel Glas 3m3,3.0,500
-214,Nieuwe west  3m3 belfast glas 1,3.0,500
-215,Nieuw west  3m3 belfast papier ,3.0,500
-216,Nieuwe west  3m3 belfast rest,3.0,550
-244,Nieuw West rest  belfast 5m3 ,5.0,700
-298,Kikker Rest ,3.0,350
-320,Centrum amsterdam EVO Glas 4m3,4.0,600
-321,Centrum Amsterdam EVO papier KH 4m3,4.0,600
+9,HMS rest 5M3,5.0,500.0
+27,Nieuw-West (SV)  Rest 5m3 TR Opl inst,5.0,700.0
+41,Nieuw west Papier,4.0,650.0
+48,Nieuw west rest 5m3,5.0,700.0
+59,Bovengrondse Glas,3.0,350.0
+109,nieuw-West Glas 1 4m3 KH TR OPL inst,4.0,600.0
+138,Nieuw-West papier 5m3,5.0,650.0
+139,Nieuw-west rest 5m3 Rubens,5.0,650.0
+140,Algemene order,0.0,0.0
+149,Oost stadsdeel ijburg Rubens KH Glas 1 5m3,5.0,600.0
+160,Centrum Stadsdeel Glas 1 KH 3m3,3.0,500.0
+206,Oost Stadsdeel Ijburg papier KH 5m3,5.0,600.0
+210,centrum Stadsdeel Glas 3m3,3.0,500.0
+214,Nieuwe west  3m3 belfast glas 1,3.0,500.0
+215,Nieuw west  3m3 belfast papier ,3.0,500.0
+216,Nieuwe west  3m3 belfast rest,3.0,550.0
+244,Nieuw West rest  belfast 5m3 ,5.0,700.0
+298,Kikker Rest ,3.0,350.0
+320,Centrum amsterdam EVO Glas 4m3,4.0,600.0
+321,Centrum Amsterdam EVO papier KH 4m3,4.0,600.0
+322,Bovengronds Rest 3m3,3.0,350.0
+332,Oost Stadsdeel KHDC  Rest 5M3,5.0,600.0
+333,Oost stadsdeel KHDC Glas 1 4m3,4.0,500.0
+334,ASW V-CONSYST METRO REST KH,5.0,700.0
+335,ASW Rubens Rest KH 5m3,5.0,700.0
+336,ASW KHDC Glas 1 KH 4M3,4.0,700.0
+337,ASW KHDC Rest KH 5M3,5.0,700.0
+339,ASW KHDC Papier KH 5M3,5.0,700.0
+341,ASW KHDC Rest  KH 5m3,5.0,650.0
+344,Oost stadsdeel KHDC papier 5M3,5.0,600.0
+347,Oost stadsdeel DC Rest 3H 5m3,5.0,600.0
+348,Oost stadsdeel DC Glas 1 3H 3m3,3.0,500.0
+349,Oost stadsdeel DC papier 3H 5m3,5.0,600.0
+350,Oost stadsdeel(IJburg) Rest Rubens KH 5m3,5.0,600.0
+351,Oost stadsdeel Rubens Glas 1 KH 3m3,3.0,500.0
+352,Oost stadsdeel Rubens Papier KH 5m3,5.0,600.0
+353,Oost stadsdeel IJburg Rubens Rest KH 5m3,5.0,600.0
+356,Centrum stadsdeel Glas 1 KH 3m3 Eigen zuil,3.0,500.0
+357,Centrum stadsdeel Papier 1 KH Wolff 3m3,3.0,500.0
+358,Centrum stadsdeel Evo Rest KH 5m3 ,5.0,600.0
+359,Centrum stadsdeel EVO Papier KH 3m3,3.0,600.0
+363,West stadsdeel V-Consyst rest 5m3,5.0,600.0
+364,Zuid Oost stadsdeel Metro Glas 1 4m3,4.0,750.0
+366,Zuidoost Stadsdeel Kliko Rest 5m3,5.0,650.0
+372,West Stadsdeel V-Consyst Glas 1 4m3,4.0,600.0
+373,West Stadsdeel V-Consyst Papier 5m3,5.0,500.0
+376,Oost Stadsdeel V-consyst Rest 5m3,5.0,600.0
+377,Oost Stadsdeel V-consyst Glas 1 4m3,4.0,600.0
+378,Oost Stadsdeel V-consyst Papier 5m3,5.0,600.0
+380,Oost Stadsdeel V-consyst Textiel 5m3,5.0,600.0
+381,Oost Stadsdeel B-Waste Rest 5m3,5.0,600.0
+382,Oost Stadsdeel B-Waste Glas 1 4m3,4.0,500.0
+383,Oost Stadsdeel B-Waste Papier 5m3,5.0,600.0
+391,Bovengrondse rest,3.0,350.0
+393,ASW Rest Rubens 3m3 KH,3.0,700.0
+394,ZuidOost Sulo Rest 5m3,5.0,600.0
+401,ASW BOVENGRONDSE CONTAINER,3.0,350.0
+403,Bovengronds Papier,3.0,350.0
+404,Semi Ondergrondse OC ASW,3.0,500.0
+406,Sulo Classic II,5.0,750.0
+409,Bovengronds Kunststof,3.0,350.0
+412,MCB Bovengrondse Glas,4.0,386.0
+428,Centrum Evo L Rest 4m3,4.0,600.0
+429,Centrum Evo L papier 4m3,4.0,600.0
+430,Centrum Evo L Glas 4m3,4.0,600.0
+433,Centrum Rest 4m3 EVO KH,4.0,600.0
+441,BAUER 3M3 Rest Bovengrondse,3.0,350.0
+456,Oost Belfast ED KH DB 5 m3 Rest,5.0,700.0
+463,Centrum Glas 1 KH 3.7 m3 Evo-L,4.0,600.0
+464,Centrum Papier KH 3.7 m3 Evol-L,4.0,600.0
+470,MCB Bovengrondse Papier,4.0,386.0
+471,MCB Bovengrondse Rest,4.0,386.0
+472,Bovengrondse Collector Bammens Rest,3.0,350.0
+473,Bovengrondse Collector Bammens Papier,3.0,350.0
+474,Bovengrondse Collector Bammens Glas,3.0,350.0
+495,Oost Stadsdeel V-consyst Rest 5m3 RAL7021,5.0,600.0
+506,Utrecht Rhino perscontainer 5m3 Rest,5.0,1500.0
+513,Bos en Lommer ondergrondse rest 7m3,7.0,750.0
+519,ASW Bos & Lommer Belfast KHC 5M3 Rest 1340,5.0,700.0
+531,Oost Stadsdeel V-consyst Glas 5m3 RAL5008,5.0,600.0
+533,Oost Stadsdeel V-consyst Papier 5m3 RAL7021,5.0,600.0
+534,Oost Stadsdeel V-consyst Papier 5m3 RAL5008,5.0,600.0
+538,Rhino Pers Rest 5m3 Belfast KH ,5.0,1500.0
+540,Oost stadsdeel V-consyst Rest 5m3  Grijsblauw RAL5008,5.0,600.0
+566,ASW KHDC Rest 7m3,7.0,700.0
+569,5TVG5 KH BEL 80 TROPL 5/7,5.0,650.0
+572,5TV1423RKLIKO BEL 80 TROPL 4/6,5.0,700.0
+580,Oost stadsdeel V-Consyst Kunststof,5.0,600.0
+617,4TVG5 3HKZ  BEL 80 TROPL 4/6,4.0,650.0
+624,5SVG5 3HKZ BEL PAP TROPL 4/6,5.0,700.0
+628,5TV1423R KH BEL 80 TROPL G2,5.0,700.0
+1883,5TVG5 3HKZ BEL PAP TROPL 5/7,5.0,650.0
+1940,5TV1340R KH BEL PAP TROPL 4/6 2%,5.0,650.0
+1941,5TVG4+ KH BEL 80 TROPL 4/6 2%,5.0,700.0
+1976,5TV1340R KH BEL 80 TROPL 4/6 2%,5.0,700.0
+1977,4TV1340R KH BEL GL1 TROPL 4/6 2%,4.0,650.0
+1978,5TV1340R KH BEL. PAP TROPL 4/6 2%,5.0,700.0
+1981,3TV1423R G2 KH BEL 80 TROPL 4/6,3.0,550.0
+1986,5TVG5 KHC UTR. 80 TROPL 5/7,5.0,700.0
+1993,3TV1423R G2 KH BEL GL1 TROPL 4/6 ISOL,3.0,550.0
+1994,5TV1423R G2 KH BEL PAP TROPL 4/6,5.0,700.0
+2083,3TV1423R G2 KH BEL PAP TROPL 4/6 ,3.0,550.0
+2085,5TV1423R G2 KH BEL 80 TROPL 4/6,5.0,700.0
+2197,5SVG5 2HKPF EVOL 80 TROPL 4/6,5.0,700.0
+2331,3TV1423R KH BEL 80 TROPL,3.0,550.0
+2392,3TV1423R KH BEL PAP TROPL G2,3.0,550.0
+2393,Nieuw West 5 kuub RU KI PAP,5.0,700.0
+2394,4M3 KH GLAS RUB TR 5/7 VERSTEL,4.0,650.0
+2427,Sidcon pers Rest 5m3,5.0,1070.0
+3049,4 M3 1-H GLAS TRANEN 4E GEN.,4.0,650.0
+3140,7TV KHFC SNAAS AMS REST TRINL,7.0,650.0
+3141,"4,8TV KHFC SNAAS AMS REST TRINL",5.0,630.0
+3287,Bovengronds Textiel Symphanie,3.0,350.0
+3288,3 m3 1 Haaks Glas Metro,3.0,550.0
+3289,4 m3 1 Haaks Glas Metro,4.0,550.0
+3290,3 m3 KH Metro,3.0,550.0
+3291,4 m3 KH Glas Bammens Downcost,4.0,650.0
+3292,3 m3 KH Glas Bammens Downcost,3.0,550.0
+3293,3 m3 KH Glas Bammens Inwerpzuil 2002,3.0,550.0
+3294,5 m3 KH Glas Bammens Inwerpzuil 2002,5.0,700.0
+3295,4 m3 KH Glas Bammens Inwerpzuil 2002,4.0,650.0
+3296,3 m3 1 Haaks Glas Bammens Downcost,3.0,550.0
+3298,3 m3 1 Haaks Papier Metro,3.0,550.0
+3299,4 m3 1 Haaks Papier Metro,4.0,550.0
+3300,5 m3 1 Haaks Papier Metro,5.0,600.0
+3301,4 m3 KH Papier Metro,4.0,550.0
+3302,5 m3 KH Papier Bammens Downcost,5.0,700.0
+3305,5 m3 KH Papier Metro,5.0,600.0
+3310,4 m3 1 Haaks Rest Metro,4.0,550.0
+3311,5 m3 1 Haaks Rest Metro,5.0,600.0
+3312,3 m3 1 Haaks Rest Metro,3.0,550.0
+3313,5 m3 KH Rest Metro,5.0,600.0
+3314,5 m3 KH Rest Bammens Downcost,5.0,700.0
+3315,5 m3 KH Rest Bammens Inwerpzuil 2002,5.0,700.0
+3317,Pers Rest Icova Metro Klem,5.0,1600.0
+3318,"3,5m3 KH Glas Icova",3.0,800.0
+3319,"3,5m3 KH Papier Icova",3.0,800.0
+3320,5m3 KHC Rest Amsterdam Standaard 1380*1380*2690,5.0,630.0
+3321,7m3 KHC Rest Amsterdam Standaard,7.0,700.0
+3322,5m3 KHC Papier Amsterdam Standaard 1380*1380*2690,5.0,630.0
+3323,5m3 KHC Glas Amsterdam Standaard 1380*1380*2690,5.0,630.0
+3324,5m3 KHC Plastic Amsterdam Standaard 1380*1380*2690,5.0,630.0
+3327,Poolse Container,3.4,350.0
+3328,"Engels, upperground, 4,8m3",4.0,350.0
+3485,5M3 Papier KH BG Bauer,5.0,350.0
+3531,5M3 Kunststof/ Plastic KH BG MCB,5.0,376.0
+3540,3M3 GFT KH OC Vconsyst,3.0,550.0
+3552,5M3 Glas wit 3HKZ OC Vconsyst,5.0,600.0
+3553,5M3 Papier 3HKZ OC Vconsyst,5.0,700.0
+3554,4M3 Rest 3HKZ OC Vconsyst,4.0,650.0
+3555,5M3 Rest 1 HK OC Vconsyst,5.0,700.0
+3556,5M3 Rest 3HKZ OC Vconsyst,5.0,700.0
+3557,5M3 Rest KH OC Vconsyst,5.0,700.0
+3559,5M3 Textiel 3HKZ OC Vconsyst,5.0,650.0
+3564,5m3 KHC Textiel Amsterdam Standaard 1380*1380*2690,5.0,630.0
+3565,"4,65m3 KHC Rest Amsterdam Standaard 1380*1380*2489",4.0,610.0
+3566,"4,65m3 KHC Papier Amsterdam Standaard 1380*1380*2489",4.0,610.0
+3567,"4,65m3 KHC Glas Amsterdam Standaard 1380*1380*2489",4.0,610.0
+3568,"4,65m3 KHC Plastic Amsterdam Standaard 1380*1380*2489",4.0,610.0
+3570,3m3 KHC Rest Amsterdam Standaard 1380*1380*1470,3.0,520.0
+3571,3m3 KHC Papier Amsterdam Standaard 1380*1380*1470,3.0,520.0
+3572,3m3 KHC Glas Amsterdam Standaard 1380*1380*1470,3.0,520.0
+3573,3m3 KHC Plastic Amsterdam Standaard 1380*1380*1470,3.0,520.0
+3574,5m3 KHC Rest Amsterdam Standaard 1338*1338*2690,5.0,630.0
+3575,5m3 KHC Glas Amsterdam Standaard 1338*1338*2690,5.0,630.0
+3576,5m3 KHC Papier Amsterdam Standaard 1338*1338*2690,5.0,500.0
+3577,5m3 KHC Plastic Amsterdam Standaard 1338*1338*2690,5.0,500.0
+3578,5m3 KHC Textiel Amsterdam Standaard 1338*1338*2690,5.0,630.0
+3579,5m3 KHC Rest Amsterdam Standaard 1338*1338*2619,5.0,630.0
+3580,5m3 KHC Papier Amsterdam Standaard 1338*1338*2619,5.0,630.0
+3581,5m3 KHC Glas Amsterdam Standaard 1338*1338*2619,5.0,630.0
+3582,5m3 KHC Plastic Amsterdam Standaard 1338*1338*2619,5.0,630.0
+3583,5m3 KHC Textiel Amsterdam Standaard 1338*1338*2619,5.0,630.0
+3585,4m3 KHC Rest Semi,4.0,350.0
+3586,5m3 Rest KHC Pers Amsterdam Standaard (Sidcon),5.0,1070.0
+3587,5m3 Plastic KHC Pers Amsterdam Standaard (Sidcon),5.0,1070.0
+3588,5m3 KHC Rest Amsterdam Standaard 1192*1192*2341,4.69,500.0
+3589,5m3 KHC Glas Amsterdam Standaard 1192*1192*2341,4.69,500.0
+3590,5m3 KHC Papier Amsterdam Standaard 1192*1192*2341,4.69,500.0
+3591,5m3 KHC Plastic Amsterdam Standaard 1192*1192*2341,4.69,500.0
+3592,5m3 KHC Textiel Amsterdam Standaard 1192*1192*2341,4.69,500.0
+3630,4m3 KHC Glas Amsterdam Standaard 1338*1338*2130,4.0,650.0
+3641,MCB Bovengrondse Plastic,4.0,386.0
+4286,3m3 KHC Rest Amsterdam Standaard 1380*1380*1640,3.0,520.0
+4299,3M3 Papier KH Semi-BG Bauer,3.0,350.0
+4300,3M3 Glas-Bont KH Semi-BG Bauer,3.0,350.0
+4309,5m3 KHC Glas Amsterdam Vconsyst 2  1340*1340*2725,5.0,630.0
+4310,5m3 KHC glas Amsterdam Standaard 1340*1340*2725,5.0,630.0
+4311,3m3 KHC glas Amsterdam standaard 1380*1380*1290,3.0,630.0
+4312,5m3 KHC Papier Amsterdam Vconsyst 2  1340*1340*2725,5.0,630.0
+4313,5m3 KHC papier Amsterdam Standaard 1340*1340*2725,5.0,630.0
+4314,5m3 KHC Plastic Amsterdam Vconsyst 2  1340*1340*2725,5.0,630.0
+4315,5m3 KHC plastic Amsterdam Standaard 1340*1340*2725,5.0,630.0
+4316,5m3 KHC rest Amsterdam Vconsyst 2  1340*1340*2725,5.0,630.0
+4317,7m3 KHC Rest Amsterdam Standaard 1380*1380*3626,7.0,
+4318,7m3 KHC rest Belfast 1380*1380*2690,7.0,700.0
+4319,5m3 KHC rest Amsterdam Standaard 1340*1340*2725,5.0,630.0
+4371,"0,24m3 Bovengronds Cushion BWaste",0.24,0.0
+4427,5TV1340RI  3HZ  METRO REST  TR 5/7,5.0,650.0
+4431,Afvalboei Bovengrondse Container Blauw/Geel Nederland Schoon,3.0,
+4597,"3,5m3 KHC Rest BG",3.0,350.0
+4598,"3,5m3 KHC Papier BG",3.0,350.0
+4599,"3,5m3 KHC Glas BG",3.0,350.0
+4600,"3,5m3 KHC Plastic BG",3.0,350.0
+4643,"0,48m3 Bovengronds Cushion BWaste",0.48,
+4649,5m3 KHC Papier Amsterdam Standaard + KK 1380*1380*2690,5.0,630.0
+4650,"4,65m3 KHC Papier Amsterdam Standaard + KK 1380*1380*2489",4.65,610.0
+4652,5m3 KHC Papier Amsterdam Standaard + KK 1338*1338*2619,5.0,630.0
+4653,5m3 KHC Papier Amsterdam Standaard + KK 1192*1192*2341,3.33,500.0
+4654,5m3 KHC Papier Amsterdam Standaard 1338*1338*2690 + KK,5.0,630.0
+4886,"0,24m3 BG Brood Rolcontainer",0.0,
+4903,SIA Melding,0.0,
+4991,4 m3 1 Haaks Plastic Metro,4.0,
+4992,7m3 KHC Plastic Amsterdam Standaard 1380*1380*3626,7.0,
+4993,7m3 KHC Papier Amsterdam Standaard 1380*1380*3626,7.0,
+5023,"Rolcontainer (staal) Rest 1,10m3",1.1,
