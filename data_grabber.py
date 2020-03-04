@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import pymysql
 from sqlalchemy import create_engine
 
@@ -29,6 +30,7 @@ well_list = pd.read_csv(wells_url)
 print("Cleaning wells and saving locally")
 wells = well_list[['id', 'stadsdeel', 'buurt_code', 'geometrie.type', 'address.neighbourhood', 'address.summary', 'geometrie.coordinates.0', 'geometrie.coordinates.1']]
 wells = wells.rename(columns={'id': 'well_id', 'geometrie.type': 'well_type', 'address.summary': 'well_address', 'address.neighbourhood': 'well_neighbourhood', 'geometrie.coordinates.0': 'well_longitude', 'geometrie.coordinates.1': 'well_latitude'}).set_index('well_id')
+wells['postal_code'] = np.nan
 wells.to_csv('data/wells.csv')
 
 # Working on Container Types
