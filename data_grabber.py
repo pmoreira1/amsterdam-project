@@ -52,6 +52,7 @@ popuplation_data = popuplation_data.rename(columns={
     'wijk/std': 'buurt_code',
     'naam wijk/std': 'buurt'
 }).dropna().set_index('buurt_id')
+popuplation_data.to_csv('data/popuplation_data.csv')
 
 # Saving information in database
 print("Storing all data in database....")
